@@ -1,0 +1,19 @@
+{
+    "index": 1,
+    "timestamp": 1760779039.2211647,
+    "transactions": [
+        {
+            "sender": "Khawla",
+            "recipient": "EMSI",
+            "amount": 100
+        },
+        {
+            "sender": "0",
+            "recipient": "948bcb1949a04573b690e303c0fac54c",
+            "amount": 1
+        }
+    ],
+    "previous_hash": "0000e328d8d266c0bd9dc67daea69985326bdaf2928c789bf1bfb3d4a557b241",
+    "nonce": 33051,
+    "hash": "0000124949f5d28beb1af189993549c8ba559261fe6441ac3fb9477e0d3549b1"
+}
