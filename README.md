@@ -1,4 +1,4 @@
-Mini-Blockchain Proof-of-Work (PoW) 🔗
+ 🔗
 Introduction
 Ce projet est une implémentation éducative et fonctionnelle d'une Mini-Blockchain développée en Python. Il simule le comportement d'un nœud de réseau décentralisé, intégrant les trois piliers fondamentaux de la technologie blockchain :
 
